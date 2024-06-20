@@ -2,9 +2,8 @@
 
 ## Dependencies 
 
-python >= 3.10.12
-pip >= 22.0.2
-
+python >= 3.10.0
+pip >= 22.0.0
 
 ## Setup
 

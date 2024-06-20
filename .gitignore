@@ -1,0 +1,16 @@
+# Compiled Python files
+*.pyc
+
+# Files created by Docker
+docker-compose.override.yml
+.dockerignore
+
+# Docker local volumes
+docker-compose.override.yml
+db_data/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
