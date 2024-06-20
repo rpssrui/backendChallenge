@@ -1,6 +1,6 @@
 # Backend Challange
 
-## Dependencies 
+## Dependencies
 
 python >= 3.10.0
 pip >= 22.0.0
@@ -27,4 +27,12 @@ Run Tests:
 
 ```bash
 make test
+```
+
+## Help
+
+To see a list of available make commands:
+
+```bash
+make help
 ```
